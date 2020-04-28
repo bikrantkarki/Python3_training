@@ -2,7 +2,7 @@
 #Calculation Series 1
 '''
 Author: Bikrant Karki
-Task:curtain size and the cost calculation
+Task:Check the a,b,c which one is greater
         1. Take the input of three float value
         2. Take the Input of the user full name
         3. check the value of each number 
