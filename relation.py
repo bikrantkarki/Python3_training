@@ -16,7 +16,7 @@ Maintainer: bikrantkarki.com.np || bikrant7@gmail.com
 
 #Assign
 '''
-here "" refer to the sting value
+here "" refer to the string value
 '''
 myname=""
 Name=""
